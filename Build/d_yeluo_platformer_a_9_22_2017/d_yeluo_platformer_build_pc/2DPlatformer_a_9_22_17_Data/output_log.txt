@@ -1,0 +1,309 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvldumd.dll 23.21.13.8792]
+    Renderer: NVIDIA GeForce GTX 1060 6GB
+    Vendor:   NVIDIA
+    VRAM:     3072 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 INTZ=1 NULL=1 RESZ=0 SlowINTZ=0 ATOC=1 BC4=1 BC5=1
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\YeLuo\Documents\Programming\UnityClass\Homework\2DPlatformer\TurnInFolder\d_yeluo_platformer_a_9_22_2017\d_yeluo_platformer_build_pc\2DPlatformer_a_9_22_17_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\YeLuo\Documents\Programming\UnityClass\Homework\2DPlatformer\TurnInFolder\d_yeluo_platformer_a_9_22_2017\d_yeluo_platformer_build_pc\2DPlatformer_a_9_22_17_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\YeLuo\Documents\Programming\UnityClass\Homework\2DPlatformer\TurnInFolder\d_yeluo_platformer_a_9_22_2017\d_yeluo_platformer_build_pc\2DPlatformer_a_9_22_17_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\YeLuo\Documents\Programming\UnityClass\Homework\2DPlatformer\TurnInFolder\d_yeluo_platformer_a_9_22_2017\d_yeluo_platformer_build_pc\2DPlatformer_a_9_22_17_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\YeLuo\Documents\Programming\UnityClass\Homework\2DPlatformer\TurnInFolder\d_yeluo_platformer_a_9_22_2017\d_yeluo_platformer_build_pc\2DPlatformer_a_9_22_17_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\YeLuo\Documents\Programming\UnityClass\Homework\2DPlatformer\TurnInFolder\d_yeluo_platformer_a_9_22_2017\d_yeluo_platformer_build_pc\2DPlatformer_a_9_22_17_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\YeLuo\Documents\Programming\UnityClass\Homework\2DPlatformer\TurnInFolder\d_yeluo_platformer_a_9_22_2017\d_yeluo_platformer_build_pc\2DPlatformer_a_9_22_17_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\YeLuo\Documents\Programming\UnityClass\Homework\2DPlatformer\TurnInFolder\d_yeluo_platformer_a_9_22_2017\d_yeluo_platformer_build_pc\2DPlatformer_a_9_22_17_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\YeLuo\Documents\Programming\UnityClass\Homework\2DPlatformer\TurnInFolder\d_yeluo_platformer_a_9_22_2017\d_yeluo_platformer_build_pc\2DPlatformer_a_9_22_17_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\YeLuo\Documents\Programming\UnityClass\Homework\2DPlatformer\TurnInFolder\d_yeluo_platformer_a_9_22_2017\d_yeluo_platformer_build_pc\2DPlatformer_a_9_22_17_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.033 seconds
+Platform assembly: C:\Users\YeLuo\Documents\Programming\UnityClass\Homework\2DPlatformer\TurnInFolder\d_yeluo_platformer_a_9_22_2017\d_yeluo_platformer_build_pc\2DPlatformer_a_9_22_17_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\YeLuo\Documents\Programming\UnityClass\Homework\2DPlatformer\TurnInFolder\d_yeluo_platformer_a_9_22_2017\d_yeluo_platformer_build_pc\2DPlatformer_a_9_22_17_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 144Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.188891 ms
+GameController created
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GameController created
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GameController created
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GameController created
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GameController created
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GameController created
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GameController created
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GameController created
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GameController created
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GameController created
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GameController created
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GameController created
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GameController created
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GameController created
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GameController created
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GameController created
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GameController created
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GameController created
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GameController created
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GameController created
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GameController created
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GameController created
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GameController created
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GameController created
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GameController created
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GameController created
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GameController created
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GameController created
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GameController created
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.427386 ms
+
+Unloading 34 unused Assets to reduce memory usage. Loaded Objects now: 406.
+Total: 0.196972 ms (FindLiveObjects: 0.023418 ms CreateObjectMapping: 0.014115 ms MarkObjects: 0.147568 ms  DeleteObjects: 0.011548 ms)
+
+Found a null of at index0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Found a null of at index1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Found a null of at index0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Found a null of at index0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Found a null of at index0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Found a null of at index1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Found a null of at index0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Found a null of at index1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Found a null of at index0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Found a null of at index1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Found a null of at index0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Found a null of at index0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Found a null of at index0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Found a null of at index1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Found a null of at index0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Found a null of at index1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Found a null of at index0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.881242 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 406.
+Total: 0.212050 ms (FindLiveObjects: 0.027268 ms CreateObjectMapping: 0.013794 ms MarkObjects: 0.167458 ms  DeleteObjects: 0.003208 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.152641 ms
+
+Unloading 53 unused Assets to reduce memory usage. Loaded Objects now: 462.
+Total: 0.218786 ms (FindLiveObjects: 0.025664 ms CreateObjectMapping: 0.014756 ms MarkObjects: 0.151097 ms  DeleteObjects: 0.026947 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.502375 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 462.
+Total: 0.256962 ms (FindLiveObjects: 0.031438 ms CreateObjectMapping: 0.013794 ms MarkObjects: 0.207237 ms  DeleteObjects: 0.004170 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.635187 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 462.
+Total: 0.239318 ms (FindLiveObjects: 0.024380 ms CreateObjectMapping: 0.026947 ms MarkObjects: 0.183498 ms  DeleteObjects: 0.003528 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.603428 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 462.
+Total: 0.377583 ms (FindLiveObjects: 0.031438 ms CreateObjectMapping: 0.029513 ms MarkObjects: 0.262736 ms  DeleteObjects: 0.053253 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.452330 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 462.
+Total: 0.313102 ms (FindLiveObjects: 0.035609 ms CreateObjectMapping: 0.059669 ms MarkObjects: 0.213333 ms  DeleteObjects: 0.003849 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.436932 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 462.
+Total: 0.485052 ms (FindLiveObjects: 0.065764 ms CreateObjectMapping: 0.126395 ms MarkObjects: 0.287759 ms  DeleteObjects: 0.003528 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.451689 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 462.
+Total: 0.204671 ms (FindLiveObjects: 0.037213 ms CreateObjectMapping: 0.013473 ms MarkObjects: 0.150776 ms  DeleteObjects: 0.002887 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.532210 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 462.
+Total: 0.262415 ms (FindLiveObjects: 0.051649 ms CreateObjectMapping: 0.041383 ms MarkObjects: 0.166496 ms  DeleteObjects: 0.002566 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.531568 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 462.
+Total: 0.242205 ms (FindLiveObjects: 0.036892 ms CreateObjectMapping: 0.014115 ms MarkObjects: 0.187669 ms  DeleteObjects: 0.003208 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.437573 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 462.
+Total: 0.416721 ms (FindLiveObjects: 0.034325 ms CreateObjectMapping: 0.014115 ms MarkObjects: 0.364110 ms  DeleteObjects: 0.003849 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.421212 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 462.
+Total: 0.243488 ms (FindLiveObjects: 0.062556 ms CreateObjectMapping: 0.013794 ms MarkObjects: 0.162325 ms  DeleteObjects: 0.003528 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.480881 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 462.
+Total: 0.272039 ms (FindLiveObjects: 0.063839 ms CreateObjectMapping: 0.026626 ms MarkObjects: 0.177724 ms  DeleteObjects: 0.003208 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.548891 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 462.
+Total: 0.226165 ms (FindLiveObjects: 0.048441 ms CreateObjectMapping: 0.027268 ms MarkObjects: 0.146927 ms  DeleteObjects: 0.002887 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.730465 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 462.
+Total: 0.271077 ms (FindLiveObjects: 0.038817 ms CreateObjectMapping: 0.016040 ms MarkObjects: 0.212691 ms  DeleteObjects: 0.003208 ms)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1ee8 -> priority: 1 
